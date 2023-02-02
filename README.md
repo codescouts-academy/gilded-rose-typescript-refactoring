@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.codescouts.academy/">
+  <a href="https://www.codescouts.academy/" target="_blank">
     <img alt="CodeScouts" src="https://www.codescouts.academy/images/logo-all-yellow.png" />
   </a>
 </p>
