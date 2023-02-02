@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.codescouts.academy/">
-    <img alt="CodeScouts" src="https://www.codescouts.academy/images/logo.png" />
+    <img alt="CodeScouts" src="https://www.codescouts.academy/images/logo-all-yellow.png" />
   </a>
 </p>
 
